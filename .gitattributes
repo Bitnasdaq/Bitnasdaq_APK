@@ -1,0 +1,2 @@
+yourfile.apk filter=lfs diff=lfs merge=lfs -text
+bnq_global.apk filter=lfs diff=lfs merge=lfs -text
